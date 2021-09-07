@@ -26,7 +26,7 @@ module.exports = {
       player.twentyFourSeven = true;
       const embed = new MessageEmbed()
        .setColor(client.embedColor)
-       .setDescription(`24/7 mode is now on.`)
+       .setDescription(`24/7 mode is now on`)
       
       return message.channel.send({embeds: [embed]});
     }
