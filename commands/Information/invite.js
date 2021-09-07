@@ -21,7 +21,7 @@ module.exports = {
 			new MessageButton()
     .setLabel("GitHub")
     .setStyle("LINK")
-    .setURL("https://github.com/brblacky/lavamusic"),
+    .setURL("https://github.com/Pranav6966/lavalink-musicbot-with-buttons.git"),
     new MessageButton()
     .setLabel("Support")
     .setStyle("LINK")
