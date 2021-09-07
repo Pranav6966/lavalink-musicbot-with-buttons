@@ -20,7 +20,7 @@ module.exports = {
 			new MessageButton()
     .setLabel("GitHub")
     .setStyle("LINK")
-    .setURL("https://github.com/brblacky/lavamusic"),
+    .setURL("https://github.com/Pranav6966/lavalink-musicbot-with-buttons.git"),
     new MessageButton()
     .setLabel("Support")
     .setStyle("LINK")
@@ -32,8 +32,8 @@ module.exports = {
             .setThumbnail('http://msurguy.github.io/gifloopcoder.com/example2.gif')
             .setColor('#303236')
             .addField('CREATOR', '[PRANAV#7066](https://github.com/PRANAV6966) \n [INFERNOᴱˢᶜ ˢᵈᶠ ˢᵠ#9999](https://github.com/ishuraj28)', true)
-            .addField('SERVER', '[](https://github.com/brblacky)', true)
-            .addField('SOURCE CODE', '[**CLICK HERE**](https://github.com/brblacky/lavamusic)', true)
+            .addField('SERVER', '[GEEKY WORLD](https://discord.gg/jgnwPGTQ6j)', true)
+            .addField('SOURCE CODE', '[**CLICK HERE**](https://github.com/Pranav6966/lavalink-musicbot-with-buttons.git)', true)
             .addField('\u200b',
                 `The bot is [**CREATED BY**](https://discord.gg/jgnwPGTQ6j) geeky world . This code is open source and is free for everyone .. `
             )
