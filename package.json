@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brblacky/lavamusic.git"
+    "url": "git+https://github.com/Pranav6966/lavalink-musicbot-with-buttons.git"
   },
   "keywords": [
     "lavalink",
@@ -24,8 +24,8 @@
   ],
   "author": "blacky",
   "license ": "MIT",
-  "bugs": "https://github.com/brblacky/lavamusic/issues",
-  "homepage": "https://github.com/brblacky/lavamusic#readme",
+  "bugs": "https://github.com/Pranav6966/lavalink-musicbot-with-buttons/issues",
+  "homepage": "https://github.com/Pranav6966/lavalink-musicbot-with-buttons/#readme",
   "dependencies": {
     "@ksoft/api": "^3.1.9",
     "audit": "^0.0.6",
